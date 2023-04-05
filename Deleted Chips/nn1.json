@@ -1,0 +1,31 @@
+{
+  "Name": "nn1",
+  "Colour": "#193510",
+  "InputPins": [],
+  "OutputPins": [],
+  "SubChips": [
+    {
+      "Name": "D-FF(Store)",
+      "ID": 830862208,
+      "Points": [
+        {
+          "X": -1.15740728,
+          "Y": 1.76851869
+        }
+      ],
+      "Data": null
+    },
+    {
+      "Name": "NAND-(3)",
+      "ID": 1657512111,
+      "Points": [
+        {
+          "X": -1.37962985,
+          "Y": -0.851852
+        }
+      ],
+      "Data": null
+    }
+  ],
+  "Connections": []
+}
