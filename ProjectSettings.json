@@ -7,12 +7,12 @@
     "NAND-(3)",
     "OR",
     "D-FF(Store)",
-    "2 x 1 Multiplexer",
-    "XOR Gate",
-    "SR-Latch",
-    "D-Latch",
-    "D-FLIPFLOP (PC)",
-    "PROGRAM COUNTER"
+    "8-BIT REGISTER",
+    "4-Bit MEM",
+    "3-AND",
+    "2-to-4 Dec",
+    "4-to-16 Dec",
+    "Rom"
   ],
   "StarredChips": [
     "AND",
@@ -22,16 +22,16 @@
     "OR",
     "D-FF(Store)",
     "BUS",
-    "2 x 1 Multiplexer",
-    "XOR Gate",
-    "SR-Latch",
-    "D-Latch",
-    "D-FLIPFLOP (PC)",
-    "PROGRAM COUNTER"
+    "8-BIT REGISTER",
+    "4-Bit MEM",
+    "3-AND",
+    "2-to-4 Dec",
+    "4-to-16 Dec",
+    "Rom"
   ],
   "DisplayOptions": {
-    "MainChipPinNameDisplayMode": 1,
-    "SubChipPinNameDisplayMode": 1,
+    "MainChipPinNameDisplayMode": 2,
+    "SubChipPinNameDisplayMode": 2,
     "ShowCursorGuide": 1
   }
 }
