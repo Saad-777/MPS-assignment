@@ -41,7 +41,10 @@
     "CLU",
     "PC in Progress",
     "MAR",
-    "Accumulator"
+    "Accumulator",
+    "B-Reg",
+    "Output-Reg",
+    "Inst-Reg"
   ],
   "StarredChips": [
     "AND",
@@ -79,11 +82,14 @@
     "TRI-STATE BUFFER",
     "PC in Progress",
     "MAR",
-    "Accumulator"
+    "Accumulator",
+    "B-Reg",
+    "Output-Reg",
+    "Inst-Reg"
   ],
   "DisplayOptions": {
     "MainChipPinNameDisplayMode": 2,
     "SubChipPinNameDisplayMode": 2,
-    "ShowCursorGuide": 1
+    "ShowCursorGuide": 0
   }
 }
