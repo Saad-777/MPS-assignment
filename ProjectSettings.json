@@ -38,7 +38,14 @@
     "E1'",
     "CE'",
     "LM'",
-    "CLU"
+    "CLU",
+    "PC in Progress",
+    "MAR",
+    "Accumulator",
+    "B-Reg",
+    "Output-Reg",
+    "Inst-Reg",
+    "RAM"
   ],
   "StarredChips": [
     "AND",
@@ -72,11 +79,19 @@
     "E1'",
     "CE'",
     "LM'",
-    "CLU"
+    "CLU",
+    "TRI-STATE BUFFER",
+    "PC in Progress",
+    "MAR",
+    "Accumulator",
+    "B-Reg",
+    "Output-Reg",
+    "Inst-Reg",
+    "RAM"
   ],
   "DisplayOptions": {
     "MainChipPinNameDisplayMode": 2,
     "SubChipPinNameDisplayMode": 2,
-    "ShowCursorGuide": 1
+    "ShowCursorGuide": 0
   }
 }
