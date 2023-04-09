@@ -55,3 +55,6 @@ The Arithmetic Logic Unit (ALU) in a 4-bit microprocessor is a digital circuit t
 
 ### Output Register
 The output register in a 4-bit microprocessor is a register that holds the output data from the microprocessor. It is typically used to temporarily store data that will be sent to an output device, such as a display or printer. The output register can hold up to 4 bits of data and is loaded with data from the accumulator or other registers before being sent to the output device. The output register is an important component for controlling the flow of data between the microprocessor and external devices.
+
+![Uploading OUTPUT REGISTER.png…]()
+
