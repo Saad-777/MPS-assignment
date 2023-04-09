@@ -13,11 +13,11 @@ Main Components of our Microprocessor
 * [Control Unit](#Control-Unit)
 * [RAM](#RAM)
 * [Program Counter](#Program-Counter)
-* [Memory Address Register(MAR)](#MAR)
+* [Memory Address Register (MAR)](#Memory-Address-Register-(MAR))
 * [B-Register](#B-Register)
 * [Accumulator](#Accumulator)
-* [ALU](#ALU)
-* [Output Register](*Output-Register)
+* [Arithmetic Logic Unit (ALU)](#Arithmetic-Logic-Unit-(ALU))
+* [Output Register](#Output-Register)
 
 ## Control Unit
 
@@ -47,7 +47,7 @@ The Memory Address Register (MAR) in a 4-bit microprocessor is a register that h
 ###  B-register
 The B-register in a 4-bit microprocessor is a register that holds a temporary data value used in arithmetic and logic operations. It can hold up to 4 bits of data and can be used to store data from memory, data entered by a user, or the results of previous calculations. The B-register is an important component for performing mathematical operations in a 4-bit microprocessor and is typically used in conjunction with the microprocessor's arithmetic logic unit (ALU).
 
-### The Arithmetic Logic Unit (ALU) 
+### Arithmetic Logic Unit (ALU) 
 The Arithmetic Logic Unit (ALU) in a 4-bit microprocessor is a digital circuit that performs arithmetic and logic operations on binary data. It can perform operations such as addition, subtraction, logical AND, logical OR, and others. The ALU takes input from the microprocessor's registers, performs the requested operation, and outputs the result to the appropriate register, such as the accumulator or B-register. The ALU is an essential component for performing mathematical and logical operations in a 4-bit microprocessor.
 
 ### Output Register
