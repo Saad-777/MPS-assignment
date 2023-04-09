@@ -12,12 +12,12 @@ We took 4 bits as our Opcode
 Main Components of our Microprocessor
 * [Control Unit](#Control-Unit)
 * [RAM](#RAM)
-* Program Counter
-* Memory Address Register(MAR)
-* B-Register
-* Accumulator
-* ALU
-* Output Register
+* [Program Counter](#Program-Counter)
+* [Memory Address Register(MAR)](#MAR)
+* [B-Register](#B-Register)
+* [Accumulator](#Accumulator)
+* [ALU](#ALU)
+* [Output Register](*Output-Register)
 
 ## Control Unit
 
