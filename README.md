@@ -1,6 +1,7 @@
 # 4-Bit Microprocessor
 Welcome to a 4-bit microprocessor Design on Stich.io by sebastian Lague
 Following are the main instruction which our microprocessor will be able to execute along with their opcode
+## Instruction Set
 We took 4 bits as our Opcode
 Load Accumalator LDA 0000
 Add 0001
