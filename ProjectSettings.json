@@ -44,7 +44,8 @@
     "Accumulator",
     "B-Reg",
     "Output-Reg",
-    "Inst-Reg"
+    "Inst-Reg",
+    "RAM"
   ],
   "StarredChips": [
     "AND",
@@ -85,7 +86,8 @@
     "Accumulator",
     "B-Reg",
     "Output-Reg",
-    "Inst-Reg"
+    "Inst-Reg",
+    "RAM"
   ],
   "DisplayOptions": {
     "MainChipPinNameDisplayMode": 2,
