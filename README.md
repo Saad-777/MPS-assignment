@@ -13,10 +13,10 @@ Main Components of our Microprocessor
 * [Control Unit](#Control-Unit)
 * [RAM](#RAM)
 * [Program Counter](#Program-Counter)
-* [Memory Address Register (MAR)](#Memory-Address-Register-(MAR))
+* [Memory Address Register](#Memory-Address-Register)
 * [B-Register](#B-Register)
 * [Accumulator](#Accumulator)
-* [Arithmetic Logic Unit (ALU)](#Arithmetic-Logic-Unit-(ALU))
+* [Arithmetic Logic Unit (ALU)](#Arithmetic-Logic-Unit)
 * [Output Register](#Output-Register)
 
 ## Control Unit
@@ -41,13 +41,16 @@ In a 4-bit microprocessor, RAM typically consists of a small number of memory lo
 ### Program Counter
  The program counter in a 4-bit microprocessor is a register that stores the memory address of the next instruction to be executed. It is automatically incremented after each instruction is executed, allowing the microprocessor to sequentially execute a series of instructions. The program counter is typically 4 bits wide, allowing it to address up to 16 memory locations in the microprocessor's memory space. The program counter is a crucial component for the proper functioning of a 4-bit microprocessor.
 
-### Memory Address Register (MAR)
+### Memory Address Register
 The Memory Address Register (MAR) in a 4-bit microprocessor is a register that holds the address of the memory location currently being accessed. The microprocessor uses the MAR to specify the address of the memory location it wants to read from or write to. The MAR is typically 4 bits wide, allowing it to address up to 16 memory locations in the microprocessor's memory space. The MAR is an important component for enabling the microprocessor to access and manipulate data stored in memory
 
 ###  B-register
 The B-register in a 4-bit microprocessor is a register that holds a temporary data value used in arithmetic and logic operations. It can hold up to 4 bits of data and can be used to store data from memory, data entered by a user, or the results of previous calculations. The B-register is an important component for performing mathematical operations in a 4-bit microprocessor and is typically used in conjunction with the microprocessor's arithmetic logic unit (ALU).
 
-### Arithmetic Logic Unit (ALU) 
+### Accumulator
+The accumulator in a 4-bit microprocessor is a register that holds the result of arithmetic and logical operations performed by the microprocessor. It can hold up to 4 bits of data and is used to store the intermediate results of calculations as well as the final result. The accumulator is a crucial component for performing mathematical and logical operations in a 4-bit microprocessor and is typically used in conjunction with the microprocessor's arithmetic logic unit (ALU).
+
+### Arithmetic Logic Unit
 The Arithmetic Logic Unit (ALU) in a 4-bit microprocessor is a digital circuit that performs arithmetic and logic operations on binary data. It can perform operations such as addition, subtraction, logical AND, logical OR, and others. The ALU takes input from the microprocessor's registers, performs the requested operation, and outputs the result to the appropriate register, such as the accumulator or B-register. The ALU is an essential component for performing mathematical and logical operations in a 4-bit microprocessor.
 
 ### Output Register
