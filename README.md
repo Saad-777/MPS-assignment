@@ -72,3 +72,5 @@ The output register in a 4-bit microprocessor is a register that holds the outpu
 ![OUTPUT REGISTER](https://user-images.githubusercontent.com/88718691/230791340-a1549f02-38b9-4ce7-a622-996cde490939.png)
 
 
+### Final Product
+![image](https://user-images.githubusercontent.com/88718691/230791514-3facc54b-ba25-4ba8-8d0c-7dd39ddf7463.png)
